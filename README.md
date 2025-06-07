@@ -1,11 +1,11 @@
 # 🐟 Deteksi Penyakit Ikan
 
-Website sederhana untuk memberikan informasi tentang berbagai jenis penyakit ikan yang umum terjadi di budidaya perikanan. Project ini dibuat sebagai submission di kelas Dicoding "Belajar Dasar Pemrograman Web".
+Website sederhana untuk memberikan informasi tentang salah satu jenis penyakit ikan yang umum terjadi di budidaya perikanan. Project ini dibuat sebagai submission di kelas Dicoding "Belajar Dasar Pemrograman Web".
 
 ## 📖 Tentang Project
 
 Website ini berisi artikel-artikel informatif tentang:
-- Jenis-jenis penyakit ikan yang sering ditemukan
+- Jenis penyakit ikan yang sering ditemukan
 - Gejala dan ciri-ciri penyakit ikan
 - Cara pencegahan dan penanganan
 - Tips menjaga kesehatan ikan budidaya
@@ -34,8 +34,7 @@ deteksi-penyakit-ikan/
 ├── index.html          # Halaman utama
 ├── style.css           # File CSS utama
 ├── assets/
-│   ├── images/         # Gambar artikel
-│   └── icons/          # Icon website
+│   ─── images/         # Gambar artikel
 └── README.md           # Dokumentasi project
 ```
 
@@ -74,13 +73,13 @@ Project ini mengimplementasikan konsep-konsep yang dipelajari di kelas Dicoding:
 
 Project Link: [https://github.com/khoerunnisasy/deteksi-penyakit-ikan](https://github.com/khoerunnisasy/deteksi-penyakit-ikan)
 
-## 🙏 Terima Kasih
+## 🙏 Acknowledgments
 
-- Dicoding Indonesia untuk materinya yang lengkap
-- Komunitas developer yang selalu support
+- **Dicoding Indonesia** untuk materinya yang lengkap
+- **Komunitas developer** yang selalu support
 - Referensi artikel tentang penyakit ikan dari berbagai sumber
 
-## 📈 Pengembangan Selanjutnya
+## 📈 Future Improvements
 
 - [ ] Menambah lebih banyak artikel
 - [ ] Implementasi search functionality
@@ -89,6 +88,6 @@ Project Link: [https://github.com/khoerunnisasy/deteksi-penyakit-ikan](https://g
 
 ---
 
-⭐ **Jangan lupa star repo ini kalau bermanfaat!**
+⭐ **Star this repository if you find it useful!**
 
 > *"Project kedua dalam perjalanan belajar web development - setiap langkah kecil adalah progress!"*
